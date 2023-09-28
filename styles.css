@@ -4,6 +4,7 @@ ul{
 }
 ul > li 
 {
+	padding-right:30px;
 	list-style-type:none;
 	margin-inline: 10px;
 	font-size:20px;
@@ -12,4 +13,15 @@ a{
 	text-decoration:none;
 	color:black;
 }
+img{
+	border-radius:10px;
+	margin:5px;
+}
+#img-container
+{
+	width:100%;
+	padding:10px;
+	background-color:#dbd7d4;
+}
+
 /* Your CSS Code here. */
